@@ -1,14 +1,12 @@
-# _Alexander Fallenstedt Template_
+# _ToDo List_
 
-#### _Short Description of the Project_ _This.Is.TheDate_
+#### _Database practice with a ToDo List_ _2/21/16_
 
 ### By _**Alex Fallenstedt**_
 
 ## Description
 
-_This web app is designed to. The app was built using the micro-framework Silex, as well as Bootstrap..._
-
-_The goal of this project was to..._
+_This web app is designed to practice databases by creating a simple ToDo list. Proper Description coming in later
 
 ## Setup/Installation Requirements
 
