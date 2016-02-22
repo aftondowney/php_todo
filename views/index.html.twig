@@ -5,14 +5,18 @@
   </head>
   <body>
     <div class="container">
-      <h1>Welcome to To Do List</h1>
-      <p>Create a new category:</p>
+      <h1>Welcome to Your To Do List</h1>
+      <p><em>You better do it otherwise your future-self will be pissed!</em></p>
 
       <form action="/categories" method="post">
           <label for="name">Category name:</label>
           <input id="name" name="name" type="text">
 
-          <button type="submit">Add category</button>
+          <button class= "btn btn-success" type="submit">Add category</button>
+      </form>
+
+      <form action="/delete_categories" method="post">
+          <button class= "btn btn-danger"type="submit">Nuke categories</button>
       </form>
 
       {% if categories is not empty %}
