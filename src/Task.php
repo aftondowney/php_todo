@@ -4,7 +4,7 @@
         private $description;
         private $id;
 
-        function __construct($description $id = null)
+        function __construct($description, $id = null)
         {
             $this->description = $description;
             $this->id = $id;
