@@ -6,7 +6,7 @@
 
 ## Description
 
-_This web app is designed to practice database creation and manipulation with a to-do list. It uses the Twig/Silex micro-framework, PHPUnit for testing, and Apache/MySQL for database management.
+This web app is designed to practice database creation and manipulation with a to-do list. It uses the Twig/Silex micro-framework, PHPUnit for testing, and Apache/MySQL for database management.
 
 ## Setup/Installation Requirements_
 
@@ -17,20 +17,20 @@ _This web app is designed to practice database creation and manipulation with a 
 
 ## Known Bugs
 
-1. _Cannot use date-time field yet_
+1. Cannot use date-time field yet
 
 ## Support and contact details
 
-_If you have any questions, concerns, or feedback, please contact the authors through_ [gitHub](https://github.com/Fallenstedt/php-code-review-2).
-[gitHub](https://github.com/aftondowney/php_todo)
+_If you have any questions, concerns, or feedback, please contact the authors through_ [gitHub - Fallenstedt](https://github.com/Fallenstedt/php-code-review-2),
+[gitHub - aftondowney](https://github.com/aftondowney/php_todo)
 
 ## Technologies Used
 
-_This web application was created using_ [MAMP](https://www.mamp.info/en/)
+This web application was created using_ [MAMP](https://www.mamp.info/en/)
 
-_This web application was created using the_  [Silex micro-framework](http://silex.sensiolabs.org/)_, as well_ [Twig](http://twig.sensiolabs.org/)_, a template engine for php._
+This web application was created using the_  [Silex micro-framework](http://silex.sensiolabs.org/), as well [Twig](http://twig.sensiolabs.org/)_, a template engine for php.
 
-_For styling, this web application used_ [Bootstrap](http://getbootstrap.com/).
+For styling, this web application used_ [Bootstrap](http://getbootstrap.com/).
 
 ### License
 
